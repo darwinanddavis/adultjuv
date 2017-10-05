@@ -22,7 +22,8 @@ File extensions:
 .csv    
 .pdf  
 .rtf  
-.html    
+.html
+.sh
 
 20170712  
 R data folders for `ghr` `hr_path` `mass` and `tb`
